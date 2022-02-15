@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">forester-turned software developer living in the San Francisco Bay Area</h3>
+<h3 align="center">A forester-turned software developer living in the San Francisco Bay Area</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
